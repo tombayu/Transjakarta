@@ -43,6 +43,7 @@ for (i in seq_along(rsplt)) {
 }
 
 write_rds(routesDF, "data/rds/routesDF.rds")
+write_csv(routesDF, "data/csv/rute01.csv")
 
 ### Download route map
 for (i in seq_along(urls)) {
@@ -50,14 +51,4 @@ for (i in seq_along(urls)) {
   download.file(urls[[i]], paste0("data/petarute/", routesDF$KodeRute[[i]], " ", routesDF$NamaRute[[i]], ".png"), mode = "wb")
 }
 
-KU <- c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13")
-
 routesDF
-(dl <- gsub(".png", "", list.files("data/petarute/")))
-(l <- sort(routesDF$KodeRute))
-for (i in seq_along(dl)) {
-  cat(i, "\n")
-  cat(l[[i]], "\n")
-  cat(dl[[i]], "\n")
-  cat(dl[[i]] == l[[i]], "\n")
-}

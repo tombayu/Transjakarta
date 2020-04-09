@@ -10,7 +10,7 @@ routes
 
 urls <- list()
 
-for (i in 1:2) {
+for (i in seq_along(routes$KodeRute)) {
   cat(paste0("[", i, "]"), routes$KodeRute[[i]], "\n")
   
   # 1st pattern
@@ -69,64 +69,29 @@ for (i in 1:2) {
   # No match..
   if("try-error" %in% class(t)) {
     cat("Helaas, no matching pattern..\n")
-    urls[[i]] <- NULL
+    urls[[i]] <- NA
   } 
 }
 urls
 
-t == 0
-t <- try(download.file(url = paste0("https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=",
-                                    routes$ScheduleID[[30]],
-                                    "&transportType=transjakarta"),
-                       destfile = paste0("data/json/", routes$KodeRute[[30]], ".json"),
-                       mode = "w"))
-if("try-error" %in% class(t)) t <- download.file(url = paste0("https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=",
-                                                         gsub("_", "_brt_", routes$ScheduleID[[30]]),
-                                                         "&transportType=transjakarta"),
-                                            destfile = paste0("data/json/", routes$KodeRute[[30]], ".json"),
-                                            mode = "w")
-if("try-error" %in% class(t)) t <- download.file(url = paste0("https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=",
-                                                              gsub("-", ".", routes$ScheduleID[[30]]),
-                                                              "&transportType=transjakarta"),
-                                                 destfile = paste0("data/json/", routes$KodeRute[[30]], ".json"),
-                                                 mode = "w")
+routesDF <- read_csv("data/csv/rute.csv") %>%
+  add_column(API_URL = unlist(urls))
 
-?gsub
-i
-gsub("_", "_brt_", routes$KodeRute[[30]])
-tryCatch({
-  
-},
-error = function(e) {
-  
-})
+write_csv(routesDF, "data/csv/rute03.csv") 
 
-?try
-
-download.file(url = "https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_13B&transportType=transjakarta",
-              destfile = "data/json/13B", mode = "w")
-dat <- fromJSON("https://www.trafi.com/api/schedules/jakarta/all?transportType=transjakarta")
-sid <- dat$schedulesByTransportId$schedules[[1]]$scheduleId
-
-listofdat <- list()
-
-for (i in seq_along(sid)) {
-  cat(paste0("[",i,"]"))
-  listofdat[[i]] <- fromJSON(paste0("https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=",
-                                    sid[[i]],
-                                    "&transportType=transjakarta"))
-}
-sid
-listofdat[[1]]$stops
-listofdat[[2]]$stops
-fromJSON("https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_13b&transportType=transjakarta")
-"https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-10&transportType=transjakarta"
-
-
-
-dat2 <- fromJSON("https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1&transportType=transjakarta")
-dat2
-
-help("jsonlite")
-rutewebtj <- read_rds("data/rds/routesDF.rds")
-write_csv(rutewebtj, "data/csv/rute.csv")
+# Manual download for these missing files
+download.file(url = "https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_old_5F&transportType=transjakarta",
+              destfile = "data/json/5H.json",
+              mode = "w")
+download.file(url = "https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6P_royaltrans&transportType=transjakarta",
+              destfile = "data/json/6P.json",
+              mode = "w")
+download.file(url = "https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B16_royaltrans&transportType=transjakarta",
+              destfile = "data/json/B16.json",
+              mode = "w")
+download.file(url = "https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.09&transportType=transjakarta",
+              destfile = "data/json/JAK-9.json",
+              mode = "w")
+download.file(url = "https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_S12_royaltrans&transportType=transjakarta",
+              destfile = "data/json/S12.json",
+              mode = "w")
