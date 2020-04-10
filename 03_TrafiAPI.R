@@ -79,7 +79,7 @@ routesDF <- read_csv("data/csv/rute.csv") %>%
 
 write_csv(routesDF, "data/csv/rute03.csv") 
 
-# Manual download for these missing files
+# Manual download for these missing files..
 download.file(url = "https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_old_5F&transportType=transjakarta",
               destfile = "data/json/5H.json",
               mode = "w")
