@@ -1,3 +1,4 @@
+# With some help from rasyidstat/transjakarta (great repo!)
 pacman::p_load(readr, dplyr, magrittr, tibble, jsonlite, purrr, tidyr)
 
 rm(list = ls())
@@ -34,6 +35,7 @@ TJ <- TJ %>%
   mutate(route_info = map(paste0("data/json/", kid, ".json"), fromJSON))
 TJ <- TJ %>%
   mutate(rute = map(TJ$route_info, "tracks"),
-         halte = map(TJ$route_info, "stops"))
+         halte = map(TJ$route_info, "stops")) %>%
+  select(-kid, -route_info)
 
 write_rds(TJ, "data/rds/TJ.rds")
