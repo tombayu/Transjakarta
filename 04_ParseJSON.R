@@ -7,7 +7,7 @@ rute <- read_csv("data/csv/rute03.csv")
 
 TJ <- data.frame(kode_koridor = character(), koridor = character(), layanan = character(), 
                  n_halte = integer(), warna = character(), 
-                 trafi_id = character(), api_url = character(),
+                 koridor_id = character(), api_url = character(),
                  tanggal = as.Date(character()), kid = character())
 
 for (i in seq_along(rute$KodeRute)) {
@@ -22,7 +22,7 @@ for (i in seq_along(rute$KodeRute)) {
     TJ <- TJ %>%
       add_row(kode_koridor = k$name, koridor = k$longName, layanan = k$transportName, 
               n_halte = length(k$stops$id), warna = k$color, 
-              trafi_id = k$id, api_url = url, 
+              koridor_id = k$id, api_url = url, 
               tanggal = Sys.Date(), kid = id)
     # stops <- k$stops %>%
     #   select(-areaName, -directionName)

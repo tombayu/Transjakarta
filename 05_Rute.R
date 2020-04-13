@@ -1,5 +1,4 @@
-# The standard library
-# With a lot of help from rasyidstat/transjakarta (great repo!)
+# Written with a lot of help from rasyidstat/transjakarta (great repo!)
 pacman::p_load(readr, dplyr, magrittr, tibble, jsonlite, purrr, tidyr)
 library(googleway)
 library(sf)
@@ -17,5 +16,9 @@ routes <- TJ %>%
   group_by_at(vars(-stops, -geometry)) %>%
   summarise(do_union = F) %>%
   st_cast("LINESTRING")
-  
-write_rds(routes, "data/rds/routes.rds")
+
+write_rds(routes, "data/rds/rute.rds")
+
+st_crs(routes) <- 4326
+st_write(routes, "C:/Users/Tombayu Hidayat/Documents/Coding/Transportation/Map/gis/Transjakarta/data/shp/rute.shp")
+plot(routes)
