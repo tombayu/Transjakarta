@@ -14,11 +14,12 @@ halte <- TJ %>%
             koridor_transit = list(unique(kode_koridor))) %>%
   ungroup()
 
-write_rds(halte, "data/rds/halte.rds")
+write_rds(halte, "data/rds/tb_tj_halte.rds")
 
 halte_pt <- halte %>%
   st_as_sf(coords = c("lon", "lat")) %>%
   st_cast("POINT")
 st_crs(halte_pt) <- 4326
 
-st_write(halte_pt, "C:/Users/Tombayu Hidayat/Documents/Coding/Transportation/Map/gis/Transjakarta/data/shp/halte.shp")
+write_rds(halte_pt, "data/rds/sp_tj_halte.rds")
+st_write(halte_pt, "C:/Users/Tombayu Hidayat/Documents/Coding/Transportation/Map/gis/Transjakarta/data/shp/sp_tj_halte.shp", append = F)
