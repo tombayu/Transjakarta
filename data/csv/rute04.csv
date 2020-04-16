@@ -1,0 +1,233 @@
+kode_koridor,koridor,layanan,n_halte,warna,koridor_id,api_url,tanggal
+1,Blok M - Kota,Transjakarta,22,D02027,idjkb_1,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1&transportType=transjakarta,2020-04-13
+1A,PIK - Balai Kota,Transjakarta,55,93C3A4,idjkb_1A,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1A&transportType=transjakarta,2020-04-13
+1B,Stasiun Palmerah - Tosari,Transjakarta,16,2AA8A4,idjkb_1B,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1B&transportType=transjakarta,2020-04-13
+1C,Blok M - Pesanggrahan - Bintaro,Transjakarta,47,59A9C1,idjkb_1C,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1C&transportType=transjakarta,2020-04-13
+1E,Pondok Labu - Blok M,Transjakarta,41,C50003,idjkb_1E,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1E&transportType=transjakarta,2020-04-13
+1F,Stasiun Palmerah - Bundaran Senayan,Transjakarta,15,FF7465,idjkb_1F,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1F&transportType=transjakarta,2020-04-13
+1H,Stasiun Tanah Abang - Stasiun Gondangdia,Transjakarta,29,E15F80,idjkb_1H,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1H&transportType=transjakarta,2020-04-13
+1M,Meruya - Blok M,Transjakarta,82,D6375F,idjkb_1M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1M&transportType=transjakarta,2020-04-13
+1N,Tanah Abang - Blok M,Transjakarta,48,D81748,idjkb_1N,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1N&transportType=transjakarta,2020-04-13
+1P,Senen - Bundaran Senayan,Transjakarta,54,FF0040,idjkb_1P,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1P&transportType=transjakarta,2020-04-13
+1R,Senen - Stasiun Tanah Abang,Transjakarta,45,FC8DA9,idjkb_1R,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1R&transportType=transjakarta,2020-04-13
+2,Pulo Gadung - Harmoni,Transjakarta,28,264798,idjkb_2,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_2&transportType=transjakarta,2020-04-13
+2A,Rawa Buaya - Pulo Gadung,Transjakarta,37,4EA8DE,idjkb_2A,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_2A&transportType=transjakarta,2020-04-13
+2B,ASMI - Harapan Indah,Transjakarta,44,266E9A,idjkb_2B,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_2B&transportType=transjakarta,2020-04-13
+2D,Kalideres - ASMI,Transjakarta,33,4EA8DE,idjkb_2D,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_2D&transportType=transjakarta,2020-04-13
+2E,Rusun Rawa Bebek - Pakin,Transjakarta,12,8D8482,idjkb_2E,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_2E&transportType=transjakarta,2020-04-13
+2K,JGC - Harapan Indah,Transjakarta,17,215AED,idjkb_2K,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_2K&transportType=transjakarta,2020-04-13
+3,Kalideres - Pasar Baru,Transjakarta,17,EDB900,idjkb_3,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_3&transportType=transjakarta,2020-04-13
+3A,Rusun Pesakih - Kalideres,Transjakarta,6,8D8482,idjkb_3A,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_3A&transportType=transjakarta,2020-04-13
+3B,Rusun Flamboyan - Kalideres,Transjakarta,5,8D8482,idjkb_3B,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_3B&transportType=transjakarta,2020-04-13
+3C,Rusun Kapuk Muara - Penjaringan,Transjakarta,2,8D8482,idjkb_3C,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_3C&transportType=transjakarta,2020-04-13
+3D,Penjaringan - Rawa Buaya,Transjakarta,35,73CCD5,idjkb_3D,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_3D&transportType=transjakarta,2020-04-13
+3E,Sentraland Cengkareng - Puri Kembangan,Transjakarta,36,DBAA06,idjkb_3E,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_3E&transportType=transjakarta,2020-04-13
+3F,Kalideres - Gelora Bung Karno,Transjakarta,22,B39233,idjkb_3F,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_3F&transportType=transjakarta,2020-04-13
+4,Pulo Gadung - Tosari,Transjakarta,20,5D2E64,idjkb_4,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4&transportType=transjakarta,2020-04-13
+4A,Jelambar - TU GAS,Transjakarta,43,AD74B1,idjkb_4A,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4A&transportType=transjakarta,2020-04-13
+4B,Stasiun Manggarai - Universitas Indonesia,Transjakarta,106,CD5FA5,idjkb_4B,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4B&transportType=transjakarta,2020-04-13
+4C,Bundaran Senayan - TU GAS,Transjakarta,28,AD75B2,idjkb_4C,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4C&transportType=transjakarta,2020-04-13
+4D,Pulo Gadung - Patra Kuningan,Transjakarta,24,5D2E64,idjkb_4D,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4D&transportType=transjakarta,2020-04-13
+4F,Pulo Gadung - Pinang Ranti,Transjakarta,103,B900E2,idjkb_brt_4F,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_4F&transportType=transjakarta,2020-04-13
+4H,Pulo Gadung - Ragunan,Transjakarta,36,9C41B5,idjkb_4H,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4H&transportType=transjakarta,2020-04-13
+4K,Pulo Gadung - Blok M,Transjakarta,36,9626B5,idjkb_4K,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4K&transportType=transjakarta,2020-04-13
+4M,Pulo Gadung - Kota,Transjakarta,23,900BB5,idjkb_4M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4M&transportType=transjakarta,2020-04-13
+Stasiun Manggarai,Stasiun Manggarai - Tosari,Transjakarta,6,5D2E64,idjkb_4X,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4X&transportType=transjakarta,2020-04-13
+5,Ancol - Kampung Melayu,Transjakarta,19,C85F1B,idjkb_5,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5&transportType=transjakarta,2020-04-13
+5A,Kampung Melayu - Grogol,Transjakarta,36,D38251,idjkb_5A,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5A&transportType=transjakarta,2020-04-13
+5B,Stasiun Tebet - Bidara Cina,Transjakarta,14,905C3A,idjkb_5B,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5B&transportType=transjakarta,2020-04-13
+5C,PGC - Harmoni,Transjakarta,25,73CCD5,idjkb_5C,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5C&transportType=transjakarta,2020-04-13
+5D,PGC - Ancol,Transjakarta,26,F2911F,idjkb_5D,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5D&transportType=transjakarta,2020-04-13
+5E,Kampung Rambutan - Ancol,Transjakarta,34,F1592A,idjkb_5E,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5E&transportType=transjakarta,2020-04-13
+5F,Kampung Melayu - Tanah Abang,Transjakarta,50,FF9E58,idjkb_5F,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5F&transportType=transjakarta,2020-04-13
+5H,Harmoni - Ancol,Transjakarta,11,FF7734,idjkb_old_5F,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_old_5F&transportType=transjakarta,2020-04-13
+5K,Kampung Melayu - Kota,Transjakarta,20,FC6F03,idjkb_5K,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5K&transportType=transjakarta,2020-04-13
+5M,Kampung Melayu - Cikini - Tanah Abang,Transjakarta,74,FF5400,idjkb_5M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5M&transportType=transjakarta,2020-04-13
+5N,Kampung Melayu - Ragunan,Transjakarta,116,FF4000,idjkb_5N,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5N&transportType=transjakarta,2020-04-13
+6,Ragunan - Halimun,Transjakarta,21,31A542,idjkb_6,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6&transportType=transjakarta,2020-04-13
+6A,Ragunan - Kuningan - Monas,Transjakarta,24,98C274,idjkb_6A,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6A&transportType=transjakarta,2020-04-13
+6B,Ragunan - Semanggi - Monas,Transjakarta,23,74C289,idjkb_6B,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6B&transportType=transjakarta,2020-04-13
+6C,Stasiun Tebet - Patra Kuningan - Karet,Transjakarta,38,647950,idjkb_6C,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6C&transportType=transjakarta,2020-04-13
+6D,Stasiun Tebet - Underpass - Karet,Transjakarta,31,819967,idjkb_6D,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6D&transportType=transjakarta,2020-04-13
+6E,Stasiun Tebet - Mega Kuningan - Karet,Transjakarta,34,384C22,idjkb_6E,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6E&transportType=transjakarta,2020-04-13
+6F,Ragunan - Stasiun Manggarai,Transjakarta,23,61B646,idjkb_6F,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6F&transportType=transjakarta,2020-04-13
+6H,Lebak Bulus - Senen,Transjakarta,59,75358D,idjkb_6H,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6H&transportType=transjakarta,2020-04-13
+6M,Stasiun Manggarai - Blok M,Transjakarta,22,7A3569,idjkb_6M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6M&transportType=transjakarta,2020-04-13
+6N,Ragunan - Blok M,Transjakarta,53,61B646,idjkb_6N,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6N&transportType=transjakarta,2020-04-13
+6Q,Epicentrum - Casablanca,Transjakarta,31,79FC58,idjkb_6Q,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6Q&transportType=transjakarta,2020-04-13
+6R,Ragunan - Stasiun MRT Fatmawati,Transjakarta,36,5BFC32,idjkb_6R,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6R&transportType=transjakarta,2020-04-13
+7,Kampung Rambutan - Kampung Melayu,Transjakarta,17,EC2661,idjkb_7,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7&transportType=transjakarta,2020-04-13
+7A,Lebak Bulus - Kampung Rambutan,Transjakarta,56,F498B9,idjkb_7A,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7A&transportType=transjakarta,2020-04-13
+7B,Kampung Rambutan - Blok M,Transjakarta,94,BB5227,idjkb_7B,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7B&transportType=transjakarta,2020-04-13
+7C,Cibubur - BKN,Transjakarta,6,669043,idjkb_7C,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7C&transportType=transjakarta,2020-04-13
+7D,TMII - Cawang Cikoko,Transjakarta,18,3F9593,idjkb_7D,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7D&transportType=transjakarta,2020-04-13
+7E,Kampung Rambutan - Ragunan,Transjakarta,36,ED4B78,idjkb_7E,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7E&transportType=transjakarta,2020-04-13
+7F,Kampung Rambutan - Cempaka Putih - Harmoni,Transjakarta,39,FF326B,idjkb_7F,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7F&transportType=transjakarta,2020-04-13
+7M,Kampung Rambutan - Pulo Gadung,Transjakarta,26,940027,idjkb_7M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7M&transportType=transjakarta,2020-04-13
+7N,Gandaria - Kampung Rambutan,Transjakarta,52,91334C,idjkb_7N,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7N&transportType=transjakarta,2020-04-13
+7P,Pondok Kelapa - BKN,Transjakarta,62,911D3C,idjkb_7P,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7P&transportType=transjakarta,2020-04-13
+8,Lebak Bulus - Harmoni,Transjakarta,28,DA259A,idjkb_8,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_8&transportType=transjakarta,2020-04-13
+8A,Harmoni - Grogol,Transjakarta,12,972A70,idjkb_8A,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_8A&transportType=transjakarta,2020-04-13
+8C,Tanah Abang - Kebayoran Lama,Transjakarta,51,245D61,idjkb_8C,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_8C&transportType=transjakarta,2020-04-13
+8D,Blok M - Joglo,Transjakarta,49,378F94,idjkb_8D,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_8D&transportType=transjakarta,2020-04-13
+8E,Blok M - Bintaro,Transjakarta,64,F498B9,idjkb_8E,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_8E&transportType=transjakarta,2020-04-13
+8K,Tanah Abang - Batusari,Transjakarta,58,378F94,idjkb_8K,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_8K&transportType=transjakarta,2020-04-13
+9,Pinang Ranti - Pluit,Transjakarta,47,449F98,idjkb_9,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9&transportType=transjakarta,2020-04-13
+9A,PGC 2 - Pluit,Transjakarta,45,8EA03B,idjkb_9A,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9A&transportType=transjakarta,2020-04-13
+9B,Pinang Ranti - Kota,Transjakarta,38,57A144,idjkb_9B,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9B&transportType=transjakarta,2020-04-13
+9C,Pinang Ranti - Bundaran Senayan,Transjakarta,27,3AA068,idjkb_9C,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9C&transportType=transjakarta,2020-04-13
+9D,Pasar Minggu - Tanah Abang,Transjakarta,97,37C021,idjkb_9D,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9D&transportType=transjakarta,2020-04-13
+9E,Kebayoran Lama - Jelambar,Transjakarta,35,5D9DA8,idjkb_9E,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9E&transportType=transjakarta,2020-04-13
+9H,Cipedak - Blok M,Transjakarta,116,84D0D4,idjkb_9H,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9H&transportType=transjakarta,2020-04-13
+9K,Kampung Rambutan - Grogol,Transjakarta,23,79D6D3,idjkb_9K,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9K&transportType=transjakarta,2020-04-13
+9M,Pinang Ranti - Halimun,Transjakarta,26,2EF5FF,idjkb_9M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9M&transportType=transjakarta,2020-04-13
+10,Tanjung Priok - PGC,Transjakarta,27,8F1A1E,idjkb_10,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10&transportType=transjakarta,2020-04-13
+10A,Rusun Marunda - Tanjung Priok,Transjakarta,16,8D8482,idjkb_10A,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10A&transportType=transjakarta,2020-04-13
+10B,Rusun Cipinang Besar Selatan - Penas Kalimalang,Transjakarta,3,8D8482,idjkb_10B,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10B&transportType=transjakarta,2020-04-13
+10C,Tanjung Priok - Pelabuhan Tanjung Priok,Transjakarta,4,E5494E,idjkb_10C,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10C&transportType=transjakarta,2020-04-13
+10D,Tanjung Priok - Kampung Rambutan,Transjakarta,24,9B3337,idjkb_10D,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10D&transportType=transjakarta,2020-04-13
+10F,Sunter Kelapa Gading - Stasiun LRT Kelapa Gading,Transjakarta,39,9C1C20,idjkb_10F,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10F&transportType=transjakarta,2020-04-13
+10H,Tanjung Priok - Blok M,Transjakarta,26,9C050A,idjkb_10H,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10H&transportType=transjakarta,2020-04-13
+10K,Tanjung Priok - Senen,Transjakarta,69,8B4344,idjkb_10K,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10K&transportType=transjakarta,2020-04-13
+11,Kampung Melayu - Pulo Gebang,Transjakarta,17,2F4FA2,idjkb_11,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11&transportType=transjakarta,2020-04-13
+11A,Pulo Gebang - Rawamangun,Transjakarta,23,6E7FAE,idjkb_11A,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11A&transportType=transjakarta,2020-04-13
+11B,Rusun Rawa Bebek - Penggilingan,Transjakarta,3,8D8482,idjkb_11B,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11B&transportType=transjakarta,2020-04-13
+11C,Rusun Pinus Elok - Rusun Pulo Gebang,Transjakarta,4,8D8482,idjkb_11C,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11C&transportType=transjakarta,2020-04-13
+11Q,Pulo Gebang - BKT - Kampung Melayu,Transjakarta,57,10C0FF,idjkb_11Q,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11Q&transportType=transjakarta,2020-04-13
+11R,Rusun Cakung KM2 - Bukit Duri,Transjakarta,15,8D8482,idjkb_11R,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11R&transportType=transjakarta,2020-04-13
+11T,Stasiun Cakung - Pulo Gebang,Transjakarta,6,8391B2,idjkb_11T,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11T&transportType=transjakarta,2020-04-13
+11U,Stasiun Cakung - Cakung Cilincing - Pulo Gebang,Transjakarta,13,143176,idjkb_11U,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11U&transportType=transjakarta,2020-04-13
+11V,Pulo Gebang - Pasar Baru,Transjakarta,24,022575,idjkb_11V,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11V&transportType=transjakarta,2020-04-13
+12,Penjaringan - Sunter Kelapa Gading,Transjakarta,29,62BD73,idjkb_12,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_12&transportType=transjakarta,2020-04-13
+12A,Kota - Pelabuhan Kaliadem,Transjakarta,37,1B6031,idjkb_12A,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_12A&transportType=transjakarta,2020-04-13
+12B,Pluit - Senen,Transjakarta,43,598E64,idjkb_12B,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_12B&transportType=transjakarta,2020-04-13
+12E,History of Jakarta Explorer,Transjakarta,38,2B823B,idjkb_12E,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_12E&transportType=transjakarta,2020-04-13
+12K,Asemka Explorer,Transjakarta,41,126E23,idjkb_12K,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_12K&transportType=transjakarta,2020-04-13
+12M,Sunter Boulevard Barat - Harmoni,Transjakarta,13,016E15,idjkb_12M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_12M&transportType=transjakarta,2020-04-13
+13A,Blok M - Puri Beta,Transjakarta,17,5C348D,idjkb_brt_13A,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_13A&transportType=transjakarta,2020-04-13
+13B,Pancoran Barat - Puri Beta,Transjakarta,29,972489,idjkb_brt_13B,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_13B&transportType=transjakarta,2020-04-13
+13C,Tosari - Puri Beta,Transjakarta,27,69338B,idjkb_brt_13C,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_13C&transportType=transjakarta,2020-04-13
+13D,Ragunan - Puri Beta,Transjakarta,27,8C5D91,idjkb_brt_13D,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_13D&transportType=transjakarta,2020-04-13
+13E,Kuningan - Puri Beta,Transjakarta,25,761C86,idjkb_brt_13E,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_13E&transportType=transjakarta,2020-04-13
+13F,Kampung Melayu - Puri Beta,Transjakarta,28,730087,idjkb_brt_13F,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_13F&transportType=transjakarta,2020-04-13
+B11,Summarecon Bekasi - Tosari,Transjakarta,34,D1792B,idjkb_B11,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B11&transportType=transjakarta,2020-04-13
+B12,Summarecon Bekasi - Tanjung Priok,Transjakarta,32,D81D5D,idjkb_B12,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B12&transportType=transjakarta,2020-04-13
+B21,Bekasi Timur - Grogol,Transjakarta,58,3BB59C,idjkb_B21,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B21&transportType=transjakarta,2020-04-13
+B22,Bekasi Timur - Juanda,Transjakarta,44,72C6B6,idjkb_B22,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B22&transportType=transjakarta,2020-04-13
+D11,Depok - BKN,Transjakarta,24,669043,idjkb_D11,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_D11&transportType=transjakarta,2020-04-13
+D21,Universitas Indonesia - Lebak Bulus,Transjakarta,80,8AAE6B,idjkb_brt_D21,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_D21&transportType=transjakarta,2020-04-13
+D31,Cinere - Kuningan,Royaltrans,38,8BBD62,idjkb_D31,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_D31&transportType=transjakarta,2020-04-13
+DA1,Stasiun MRT Dukuh Atas - Sam Ratulangi,Transjakarta,29,8CFF40,idjkb_DA1,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_DA1&transportType=transjakarta,2020-04-13
+DA2,Stasiun MRT Dukuh Atas - Tanah Abang,Transjakarta,28,FF73DC,idjkb_DA2,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_DA2&transportType=transjakarta,2020-04-13
+DA3,Stasiun MRT Dukuh Atas - Kuningan,Transjakarta,46,4040FF,idjkb_DA3,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_DA3&transportType=transjakarta,2020-04-13
+DA4,Stasiun MRT Dukuh Atas - Kota,Transjakarta,59,F7B772,idjkb_DA4,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_DA4&transportType=transjakarta,2020-04-13
+L4,PGC 2 - Tosari,Transjakarta,20,43C7CE,idjkb_L4,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_L4&transportType=transjakarta,2020-04-13
+L6,Monas - Ragunan,Transjakarta,25,6B823E,idjkb_L6,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_L6&transportType=transjakarta,2020-04-13
+L7,Kampung Rambutan - Kampung Melayu,Transjakarta,7,992765,idjkb_L7,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_L7&transportType=transjakarta,2020-04-13
+L10,PGC 2 - Tanjung Priok,Transjakarta,17,EF3134,idjkb_L10,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_L10&transportType=transjakarta,2020-04-13
+MR1,Blok M - Pakubuwono,Transjakarta,17,4D2D85,idjkb_MR1,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_MR1&transportType=transjakarta,2020-04-13
+MR2,Blok M - Kramat Pela,Transjakarta,19,553191,idjkb_MR2,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_MR2&transportType=transjakarta,2020-04-13
+MR3,Blok M - Wijaya,Transjakarta,23,633AAB,idjkb_MR3,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_MR3&transportType=transjakarta,2020-04-13
+MR5,Stasiun MRT Blok A - Radio Dalam,Transjakarta,19,7243C4,idjkb_MR5,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_MR5&transportType=transjakarta,2020-04-13
+MR8,Stasiun MRT Blok A - Pangeran Antasari,Transjakarta,31,8950EB,idjkb_MR8,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_MR8&transportType=transjakarta,2020-04-13
+MR9,South Quarter - Lebak Bulus,Transjakarta,20,9054F7,idjkb_MR9,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_MR9&transportType=transjakarta,2020-04-13
+S11,BSD Serpong - Jelambar,Transjakarta,49,0FA8D4,idjkb_S11,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_S11&transportType=transjakarta,2020-04-13
+S21,Ciputat - Tosari,Transjakarta,65,D8B527,idjkb_S21,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_S21&transportType=transjakarta,2020-04-13
+S22,Ciputat - Kampung Rambutan,Transjakarta,39,DB8B29,idjkb_S22,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_S22&transportType=transjakarta,2020-04-13
+1Q,Blok M - Rempoa,Transjakarta,49,FF9411,idjkb_S23,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_S23&transportType=transjakarta,2020-04-13
+S41,Pondok Cabe - Tanah Abang,Transjakarta,122,DBA460,idjkb_S41,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_S41&transportType=transjakarta,2020-04-13
+T11,Poris Plawad - Bundaran Senayan,Transjakarta,55,8F4B98,idjkb_T11,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_T11&transportType=transjakarta,2020-04-13
+T12,Poris Plawad - Juanda,Transjakarta,52,C3378D,idjkb_T12,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_T12&transportType=transjakarta,2020-04-13
+1K,Cibubur - Blok M,Royaltrans,14,FF4271,idjkb_1K,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1K&transportType=transjakarta,2020-04-13
+1T,Cibubur - Kota,Royaltrans,47,BF5871,idjkb_1T,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1T&transportType=transjakarta,2020-04-13
+1U,TMII - Balai Kota,Royaltrans,31,F87292,idjkb_1U,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1U&transportType=transjakarta,2020-04-13
+6P,Cibubur - Kuningan,Royaltrans,27,BFFFAF,idjkb_6P_royaltrans,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6P_royaltrans&transportType=transjakarta,2020-04-13
+B13,Summarecon Bekasi - Blok M,Royaltrans,19,FF873D,idjkb_B13,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B13&transportType=transjakarta,2020-04-13
+B14,Summarecon Bekasi - Kuningan,Royaltrans,20,D14274,idjkb_B14,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B14&transportType=transjakarta,2020-04-13
+B15,Jatibening - Blok M,Royaltrans,13,FF7017,idjkb_B15,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B15&transportType=transjakarta,2020-04-13
+B16,Jatibening - Kuningan,Royaltrans,25,D12460,idjkb_B16_royaltrans,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B16_royaltrans&transportType=transjakarta,2020-04-13
+B23,Bekasi Timur - Manggarai,Royaltrans,47,7ECDBC,idjkb_B23,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B23&transportType=transjakarta,2020-04-13
+B24,Bekasi Timur - Kalideres,Royaltrans,32,7ECDBC,idjkb_B24,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B24&transportType=transjakarta,2020-04-13
+S12,BSD Serpong - Stasiun MRT Fatmawati,Royaltrans,14,46B5D4,idjkb_S12_royaltrans,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_S12_royaltrans&transportType=transjakarta,2020-04-13
+S31,Bintaro - Stasiun MRT Fatmawati,Royaltrans,6,D6BF60,idjkb_S31,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_S31&transportType=transjakarta,2020-04-13
+BW1,Bus wisata History of Jakarta,Bus Wisata TJ,11,264798,idjkb_BW1,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_BW1&transportType=transjakarta,2020-04-13
+BW2,Bus wisata Jakarta Modern,Bus Wisata TJ,12,264798,idjkb_BW2,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_BW2&transportType=transjakarta,2020-04-13
+BW3,Bus wisata Art & Culinary,Bus Wisata TJ,12,264798,idjkb_BW3,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_BW3&transportType=transjakarta,2020-04-13
+BW4,Bus wisata Jakarta Skyscrapers,Bus Wisata TJ,23,264798,idjkb_BW4,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_BW4&transportType=transjakarta,2020-04-13
+BW5,Bus wisata RPTRA Kalijodo,Bus Wisata TJ,8,264798,idjkb_BW5,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_BW5&transportType=transjakarta,2020-04-13
+BW6,Bus wisata Makam Mbah Priok,Bus Wisata TJ,14,264798,idjkb_BW6,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_BW6&transportType=transjakarta,2020-04-13
+BW7,Bus wisata Jakarta Shopping,Bus Wisata TJ,15,264798,idjkb_BW7,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_BW7&transportType=transjakarta,2020-04-13
+GR1,Harmoni - Bundaran Senayan,Bus Gratis TJ,39,449F98,idjkb_GR1,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_GR1&transportType=transjakarta,2020-04-13
+GR2,Tanah Abang Explorer,Bus Gratis TJ,7,1D4B99,idjkb_GR2,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_GR2&transportType=transjakarta,2020-04-13
+JAK.01,Tanjung Priok - Plumpang,Jak Lingko,58,00B0EC,idjkb_JAK-1,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-1&transportType=transjakarta,2020-04-13
+JAK.02,Kampung Melayu - Duren Sawit,Jak Lingko,69,00B0EC,idjkb_OK-2,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-2&transportType=transjakarta,2020-04-13
+JAK.03,Pondok Labu - Lebak Bulus,Jak Lingko,50,00B0EC,idjkb_OK-3,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-3&transportType=transjakarta,2020-04-13
+JAK.04,Grogol - Tubagus Angke,Jak Lingko,23,00B0EC,idjkb_OK-4,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-4&transportType=transjakarta,2020-04-13
+JAK.05,Semper - Rorotan,Jak Lingko,78,00B0EC,idjkb_OK-5,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-5&transportType=transjakarta,2020-04-13
+JAK.06,Kampung Rambutan - Pondok Gede,Jak Lingko,96,00B0EC,idjkb_OK-6,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-6&transportType=transjakarta,2020-04-13
+JAK.07,Tanah Abang - Grogol,Jak Lingko,81,00B0EC,idjkb_JAK-7,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-7&transportType=transjakarta,2020-04-13
+JAK.08,Roxy - Bendungan Hilir,Jak Lingko,64,00B0EC,idjkb_JAK-8,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-8&transportType=transjakarta,2020-04-13
+JAK.09,Roxy Mas - Karet,Jak Lingko,45,00B0EC,idjkb_JAK.09,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.09&transportType=transjakarta,2020-04-13
+JAK.10,Tanah Abang - Kota,Jak Lingko,73,00B0EC,idjkb_JAK-10,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-10&transportType=transjakarta,2020-04-13
+JAK.11,Tanah Abang - Kebayoran Lama,Jak Lingko,86,00B0EC,idjkb_JAK-11,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-11&transportType=transjakarta,2020-04-13
+JAK.12,Tanah Abang - Pos Pengumben - Kebayoran Lama,Jak Lingko,102,00B0EC,idjkb_JAK-12,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-12&transportType=transjakarta,2020-04-13
+JAK.13,Tanah Abang - Kota Intan,Jak Lingko,80,00B0EC,idjkb_JAK.13,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.13&transportType=transjakarta,2020-04-13
+JAK.14,Tanah Abang - Meruya,Jak Lingko,113,00B0EC,idjkb_JAK-14,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-14&transportType=transjakarta,2020-04-13
+JAK.15,Tanjung Priok - Bulak Turi,Jak Lingko,65,00B0EC,idjkb_OK-15,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-15&transportType=transjakarta,2020-04-13
+JAK.16,Cililitan - Condet,Jak Lingko,57,00B0EC,idjkb_OK-16,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-16&transportType=transjakarta,2020-04-13
+JAK.17,Pulo Gadung - Senen,Jak Lingko,94,00B0EC,idjkb_OK-17,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-17&transportType=transjakarta,2020-04-13
+JAK.18,Stasiun Duren Kalibata - Kuningan,Jak Lingko,110,00B0EC,idjkb_OK-18,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-18&transportType=transjakarta,2020-04-13
+JAK.19,Pinang Ranti - Setu,Jak Lingko,94,00B0EC,idjkb_OK-19,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-19&transportType=transjakarta,2020-04-13
+JAK.20,Lubang Buaya - Cawang UKI,Jak Lingko,68,00B0EC,idjkb_OK-20,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-20&transportType=transjakarta,2020-04-13
+JAK.21,PGC - Dwikora,Jak Lingko,34,00B0EC,idjkb_OK-21,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-21&transportType=transjakarta,2020-04-13
+JAK.22,Penas Kalimalang - Dwikora,Jak Lingko,28,00B0EC,idjkb_OK-22,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-22&transportType=transjakarta,2020-04-13
+JAK.24,Senen - Kelapa Gading - Pulo Gadung,Jak Lingko,95,00B0EC,idjkb_JAK-24,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-24&transportType=transjakarta,2020-04-13
+JAK.25,Kalisari - Pasar Rebo,Jak Lingko,89,00B0EC,idjkb_OK-25,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-25&transportType=transjakarta,2020-04-13
+JAK.26,Duren Sawit - Rawamangun,Jak Lingko,94,00B0EC,idjkb_OK-26,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-26&transportType=transjakarta,2020-04-13
+JAK.27,Rorotan - Pulo Gebang,Jak Lingko,52,00B0EC,idjkb_OK-27,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-27&transportType=transjakarta,2020-04-13
+JAK.28,Pasar Rebo - Taman Wiladatika,Jak Lingko,70,00B0EC,idjkb_OK-28,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-28&transportType=transjakarta,2020-04-13
+JAK.29,Tanjung Priok - Rusun Sukapura,Jak Lingko,80,00B0EC,idjkb_OK-29,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-29&transportType=transjakarta,2020-04-13
+JAK.30,Grogol - Meruya,Jak Lingko,62,00B0EC,idjkb_OK-30,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-30&transportType=transjakarta,2020-04-13
+JAK.31,Pondok Labu - Blok M,Jak Lingko,110,00B0EC,idjkb_OK-31,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-31&transportType=transjakarta,2020-04-13
+JAK.32,Petukangan - Lebak Bulus,Jak Lingko,47,00B0EC,idjkb_OK-32,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-32&transportType=transjakarta,2020-04-13
+JAK.33,Pulo Gadung - Kota,Jak Lingko,127,00B0EC,idjkb_OK-33,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-33&transportType=transjakarta,2020-04-13
+JAK.34,Rawamangun - Klender,Jak Lingko,73,00B0EC,idjkb_JAK-34,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-34&transportType=transjakarta,2020-04-13
+JAK.35,Rawamangun - Pangkalan Jati,Jak Lingko,54,00B0EC,idjkb_JAK.35,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.35&transportType=transjakarta,2020-04-13
+JAK.36,Cilangkap - Cililitan,Jak Lingko,87,00B0EC,idjkb_JAK-36,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-36&transportType=transjakarta,2020-04-13
+JAK.37,Cililitan - Condet,Jak Lingko,52,00B0EC,idjkb_JAK-37,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-37&transportType=transjakarta,2020-04-13
+JAK.38,Bulak Ringin - Kampung Rambutan,Jak Lingko,76,00B0EC,idjkb_JAK-38,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-38&transportType=transjakarta,2020-04-13
+JAK.39,Duren Sawit - Kalimalang,Jak Lingko,65,00B0EC,idjkb_JAK-39,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-39&transportType=transjakarta,2020-04-13
+JAK.40,Pulogebang - Taman Harapan Baru,Jak Lingko,60,00B0EC,idjkb_JAK-40,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-40&transportType=transjakarta,2020-04-13
+JAK.41,Kampung Melayu - Pulo Gadung,Jak Lingko,82,00B0EC,idjkb_JAK.41,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.41&transportType=transjakarta,2020-04-13
+JAK.42,Kampung Melayu - Pondok Kelapa,Jak Lingko,90,00B0EC,idjkb_JAK.42,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.42&transportType=transjakarta,2020-04-13
+JAK.43,Tongtek - Cililitan,Jak Lingko,62,00B0EC,idjkb_JAK.43,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.43&transportType=transjakarta,2020-04-13
+JAK.44,Andara - Lenteng Agung,Jak Lingko,54,00B0EC,idjkb_JAK-44,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-44&transportType=transjakarta,2020-04-13
+JAK.45,Ragunan - Lebak Bulus,Jak Lingko,72,00B0EC,idjkb_JAK-45,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-45&transportType=transjakarta,2020-04-13
+JAK.47,Terminal Pasar Minggu - Ciganjur,Jak Lingko,70,00B0EC,idjkb_JAK-47,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-47&transportType=transjakarta,2020-04-13
+JAK.49,Lebak Bulus - Cipulir,Jak Lingko,74,00B0EC,idjkb_JAK.49,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.49&transportType=transjakarta,2020-04-13
+JAK.50,Kalideres - Puri Kembangan,Jak Lingko,100,00B0EC,idjkb_JAK-50,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-50&transportType=transjakarta,2020-04-13
+JAK.51,Taman Kota - Budi Luhur,Jak Lingko,92,00B0EC,idjkb_JAK-51,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-51&transportType=transjakarta,2020-04-13
+JAK.52,Kalideres - Muara Angke,Jak Lingko,81,00B0EC,idjkb_JAK.52,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.52&transportType=transjakarta,2020-04-13
+JAK.54,Grogol - Benhil,Jak Lingko,74,00B0EC,idjkb_JAK.54,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.54&transportType=transjakarta,2020-04-13
+JAK.56,Grogol - Srengseng,Jak Lingko,113,00B0EC,idjkb_JAK-56,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-56&transportType=transjakarta,2020-04-13
+JAK.58,Cilincing - Rorotan,Jak Lingko,71,00B0EC,idjkb_JAK-58,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-58&transportType=transjakarta,2020-04-13
+JAK.59,Rawamangun - Rawa Sengon,Jak Lingko,50,00B0EC,idjkb_JAK-59,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-59&transportType=transjakarta,2020-04-13
+JAK.60,Kelapa Gading - Sunter Kemayoran,Jak Lingko,85,00B0EC,idjkb_JAK-60,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-60&transportType=transjakarta,2020-04-13
+JAK.61,Pulo Gadung - Cempaka Putih,Jak Lingko,54,00B0EC,idjkb_JAK-61,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-61&transportType=transjakarta,2020-04-13
+JAK.64,Lenteng Agung - Aselih,Jak Lingko,49,00B0EC,idjkb_JAK-64,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-64&transportType=transjakarta,2020-04-13
+JAK.71,Kampung Rambutan - Pinang Ranti,Jak Lingko,43,00B0EC,idjkb_JAK.71,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.71&transportType=transjakarta,2020-04-13
+JAK.72,Kampung Rambutan - Pasar Rebo,Jak Lingko,91,00B0EC,idjkb_JAK-72,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-72&transportType=transjakarta,2020-04-13
+JAK.73,Jambore Cibubur - Pasar Rebo,Jak Lingko,77,00B0EC,idjkb_JAK.73,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.73&transportType=transjakarta,2020-04-13
+JAK.74,Terminal Rawamangun - Cipinang Muara,Jak Lingko,41,00B0EC,idjkb_JAK.74,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.74&transportType=transjakarta,2020-04-13
+JAK.75,Kampung Pulo - Halim,Jak Lingko,55,00B0EC,idjkb_JAK-75,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-75&transportType=transjakarta,2020-04-13
+JAK.77,Tanjung Priok - Jembatan Hitam,Jak Lingko,48,00B0EC,idjkb_JAK-77,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-77&transportType=transjakarta,2020-04-13
+JAK.80,Rawa Buaya - Rawa Kompeni,Jak Lingko,60,00B0EC,idjkb_JAK.80,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.80&transportType=transjakarta,2020-04-13
+JAK.84,Kampung Melayu - Kapin Raya,Jak Lingko,74,00B0EC,idjkb_JAK.84,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.84&transportType=transjakarta,2020-04-13
+JAK.85,Bintara - Cipinang Indah,Jak Lingko,82,00B0EC,idjkb_JAK.85,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.85&transportType=transjakarta,2020-04-13
+JAK.112,Pulo Gadung - Tanah Merah,Jak Lingko,58,00B0EC,idjkb_JAK.112,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.112&transportType=transjakarta,2020-04-13
+JAK.117,Terminal Tanjung Priok - Terminal Tanah Merdeka,Jak Lingko,54,00B0EC,idjkb_JAK.117,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.117&transportType=transjakarta,2020-04-13
+10E,Tanjung Priok - Pulo Gebang,Transjakarta,4,0FABE8,idjkb_10E,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10E&transportType=transjakarta,2020-04-13
+11E,Lebak Bulus - Pulo Gebang,Transjakarta,8,0FABE8,idjkb_11E,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11E&transportType=transjakarta,2020-04-13
+11F,Pasar Minggu - Pulo Gebang,Transjakarta,13,0FABE8,idjkb_11F,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11F&transportType=transjakarta,2020-04-13
+11H,Pinang Ranti - Pulo Gebang,Transjakarta,16,0FABE8,idjkb_11H,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11H&transportType=transjakarta,2020-04-13
+2C,Monas - JIEXPO Kemayoran,Transjakarta,11,DC5E28,idjkb_2C,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_2C&transportType=transjakarta,2020-04-13

@@ -1,0 +1,235 @@
+KodeRute,NamaRute,API_URL
+1,Blok M - Kota,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1&transportType=transjakarta
+1A,PIK - Balai Kota,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1A&transportType=transjakarta
+1B,St. Pal Merah - Tosari,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1B&transportType=transjakarta
+1C,Blok M - Pesanggrahan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1C&transportType=transjakarta
+1E,Pondok Labu - BLok M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1E&transportType=transjakarta
+1F,Stasiun Palmerah - Bundaran Senayan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1F&transportType=transjakarta
+1H,Stasiun Tanah Abang - Stasiun Gondangdia,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1H&transportType=transjakarta
+1M,Meruya - Blok M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1M&transportType=transjakarta
+1N,Tanah Abang - Blok M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1N&transportType=transjakarta
+1P,Senen - Bundaran Senayan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1P&transportType=transjakarta
+1R,Stasiun Pasar Senen - Stasiun Tanah Abang,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1R&transportType=transjakarta
+2,Pulogadung - Harmoni Central,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_2&transportType=transjakarta
+2A,Pulogadung - Rawa Buaya,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_2A&transportType=transjakarta
+2B,Harapan Indah - ASMI,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_2B&transportType=transjakarta
+2D,Kalideres - ASMI,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_2D&transportType=transjakarta
+2E,Rusun Rawa Bebek - Pakin,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_2E&transportType=transjakarta
+2K,JGC - Harapan Indah,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_2K&transportType=transjakarta
+3,Kalideres - Pasar Baru,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_3&transportType=transjakarta
+3A,Rusun Daan Mogot - Kalideres,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_3A&transportType=transjakarta
+3B,Rusun Flamboyan - Kalideres,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_3B&transportType=transjakarta
+3C,Rusun Kapuk Muara - Kalideres,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_3C&transportType=transjakarta
+3D,Penjaringan - Rawa Buaya,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_3D&transportType=transjakarta
+3E,Sentraland Cengkareng - Puri Kembangan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_3E&transportType=transjakarta
+3F,Kalideres - Gelora Bung Karno,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_3F&transportType=transjakarta
+4,Pulogadung2 - Duku Atas2,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4&transportType=transjakarta
+4A,TU Gas - Grogol 2,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4A&transportType=transjakarta
+4B,St. Manggarai - Universitas Indonesia,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4B&transportType=transjakarta
+4C,Bundaran Senayan - TU Gas,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4C&transportType=transjakarta
+4D,TU Gas - Departemen Kesehatan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4D&transportType=transjakarta
+4F,Pondok Gede - Pulo Gadung,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_4F&transportType=transjakarta
+4H,Pulogadung 2 - Ragunan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4H&transportType=transjakarta
+4K,Pulogadung 2 - Blok M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4K&transportType=transjakarta
+4M,Pulogadung - Kota,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4M&transportType=transjakarta
+4X,Stasiun Manggarai - Tosari,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_4X&transportType=transjakarta
+5,Kampung Melayu - Ancol,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5&transportType=transjakarta
+5A,Kampung Melayu - Grogol 1,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5A&transportType=transjakarta
+5B,St. Tebet - Bidara Cina,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5B&transportType=transjakarta
+5C,PGC 1 - Harmoni Central,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5C&transportType=transjakarta
+5D,PGC 1 - Ancol,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5D&transportType=transjakarta
+5E,Kampung Rambutan - Ancol,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5E&transportType=transjakarta
+5F,Kampung Melayu - Tanah Abang,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5F&transportType=transjakarta
+5H,Harmoni - Ancol,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_old_5F&transportType=transjakarta
+5K,Kampung Melayu - Kota,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5K&transportType=transjakarta
+5M,Kampung Melayu - Tanah Abang via Cikini,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5M&transportType=transjakarta
+5N,Kampung Melayu - Ragunan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_5N&transportType=transjakarta
+6,Ragunan - Duku Atas 2,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6&transportType=transjakarta
+6A,Ragunan - Monas Via Kuningan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6A&transportType=transjakarta
+6B,Ragunan - Monas Via Semanggi,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6B&transportType=transjakarta
+6C,St. Tebet - Karet Via Patra Kuningan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6C&transportType=transjakarta
+6D,St. Tebet - Karet Via Underpass,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6D&transportType=transjakarta
+6E,St. Tebet - Karet Via Mega Kuningan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6E&transportType=transjakarta
+6F,Ragunan - St. Manggarai,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6F&transportType=transjakarta
+6H,Pasar Senen - Lebak Bulus,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6H&transportType=transjakarta
+6M,Blok M - St Manggarai,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6M&transportType=transjakarta
+6N,Blok M - Ragunan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6N&transportType=transjakarta
+6Q,Epicentrum - Casablanca,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6Q&transportType=transjakarta
+6R,Ragunan - Stasiun MRT Fatmawati,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6R&transportType=transjakarta
+7,Kampung Rambutan - Kampung Melayu,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7&transportType=transjakarta
+7A,Kampung Rambutan - Lebak Bulus,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7A&transportType=transjakarta
+7B,Kampung Rambutan - Blok M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7B&transportType=transjakarta
+7C,Cibubur - BKN,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7C&transportType=transjakarta
+7D,TMII - Cawang UKI,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7D&transportType=transjakarta
+7E,Kampung Rambutan - Ragunan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7E&transportType=transjakarta
+7F,Kampung Rambutan - Harmoni via Cempaka Putih,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7F&transportType=transjakarta
+7M,Kampung Rambutan - Pulogadung,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7M&transportType=transjakarta
+7N,Gandaria - Kampung Rambutan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7N&transportType=transjakarta
+7P,Pondok Kelapa - BKN,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_7P&transportType=transjakarta
+8,Lebak Bulus - Harmoni Central,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_8&transportType=transjakarta
+8A,Grogol 2 - Juanda,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_8A&transportType=transjakarta
+8C,Iskandar Muda - St. Tanah Abang,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_8C&transportType=transjakarta
+8D,Joglo - Blok M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_8D&transportType=transjakarta
+8E,Bintaro - Blok M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_8E&transportType=transjakarta
+8F,Stasiun BNI City - Pasar Kebayoran Lama,NA
+8K,Batusari - Tanah Abang,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_8K&transportType=transjakarta
+9,Pinang Ranti - Pluit,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9&transportType=transjakarta
+9A,PGC 2 - Pluit,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9A&transportType=transjakarta
+9B,Pinang Ranti - Kota,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9B&transportType=transjakarta
+9C,Pinang Ranti - Bundaran Senayan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9C&transportType=transjakarta
+9D,Pasar Minggu - Tanah Abang,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9D&transportType=transjakarta
+9E,Kebayoran Lama - Grogol 2,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9E&transportType=transjakarta
+9H,Cipedak - Blok M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9H&transportType=transjakarta
+9K,Kampung Rambutan - Grogol 2,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9K&transportType=transjakarta
+9M,Pinang Ranti - Kuningan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_9M&transportType=transjakarta
+10,PGC 2 - Tanjung Priok,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10&transportType=transjakarta
+10A,Rusun Marunda - Tanjung Priok,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10A&transportType=transjakarta
+10B,Rusun Cipinang Besar Selatan - PGC 1,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10B&transportType=transjakarta
+10C,Tanjung Priok - Pelabuhan Tanjung Priok,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10C&transportType=transjakarta
+10D,Tanjung Priok - Kampung Rambutan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10D&transportType=transjakarta
+10F,Sunter Kelapa Gading - Stasiun LRT Pegangsaan Dua,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10F&transportType=transjakarta
+10H,Tanjung Priok - Blok M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10H&transportType=transjakarta
+10K,Tanjung Priok - Senen via Taman BMW,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10K&transportType=transjakarta
+11,Walikota Jakarta Timur - Kampung Melayu,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11&transportType=transjakarta
+11A,Pulogadung - Pulogebang,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11A&transportType=transjakarta
+11B,Rusun Rawa Bebek -  Pulogebang,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11B&transportType=transjakarta
+11C,Rusun Pulogebang - Rusun Pinus Elok,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11C&transportType=transjakarta
+11Q,Pulogebang - Kampung Melayu via BKT,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11Q&transportType=transjakarta
+11R,Rusun Cakung KM 2 - Bukit Duri,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11R&transportType=transjakarta
+11T,Pulogebang - Stasiun Cakung,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11T&transportType=transjakarta
+11U,Pulogebang - Stasiun Cakung via Cakung Cilincing,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11U&transportType=transjakarta
+11V,Pulogebang - Pasar Baru,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11V&transportType=transjakarta
+12,Penjaringan - Sunter Kelapa Gading,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_12&transportType=transjakarta
+12A,Dermaga Kaliadem - Kota,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_12A&transportType=transjakarta
+12B,Pluit - Senen,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_12B&transportType=transjakarta
+12E,History of Jakarta Explorer,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_12E&transportType=transjakarta
+12K,Asemka Explorer,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_12K&transportType=transjakarta
+12M,Sunter Boulevard Barat - Harmoni,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_12M&transportType=transjakarta
+13A,Blok M - Ciledug Puri Beta,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_13A&transportType=transjakarta
+13B,Pancoran Barat - Ciledug Puri Beta,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_13B&transportType=transjakarta
+13C,Ciledug Puri Beta - Dukuh Atas,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_13C&transportType=transjakarta
+13D,Ragunan - Ciledug Puri Beta,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_13D&transportType=transjakarta
+13E,Ciledug Puri Beta - Kuningan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_13E&transportType=transjakarta
+13F,Puri Beta - Kampung Melayu,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_13F&transportType=transjakarta
+B11,Summarecon Bekasi - Tosari,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B11&transportType=transjakarta
+B12,Summarecon Bekasi - Tanjung Priok,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B12&transportType=transjakarta
+B21,Bekasi Timur - Grogol 2,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B21&transportType=transjakarta
+B22,Bekasi Timur - Juanda,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B22&transportType=transjakarta
+D11,Depok - BKN,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_D11&transportType=transjakarta
+D21,Universitas Indonesia - Lebak Bulus,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_brt_D21&transportType=transjakarta
+D31,Cinere - Kuningan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_D31&transportType=transjakarta
+DA1,Dukuh Atas - Sam Ratulangi,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_DA1&transportType=transjakarta
+DA2,Dukuh Atas - Tanah Abang,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_DA2&transportType=transjakarta
+DA3,Dukuh Atas - Kuningan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_DA3&transportType=transjakarta
+DA4,Dukuh Atas - Kota,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_DA4&transportType=transjakarta
+L4,PGC 2 - Dukuh Atas 2,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_L4&transportType=transjakarta
+L6,Bank Indonesia - Ragunan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_L6&transportType=transjakarta
+L7,Kp. Rambutan - Kampung Melayu,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_L7&transportType=transjakarta
+L10,PGC 2 - Tanjung Priok,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_L10&transportType=transjakarta
+MR1,Blok M - Pakubuwono,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_MR1&transportType=transjakarta
+MR2,Blok M - Kramat Pela,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_MR2&transportType=transjakarta
+MR3,Blok M - Wijaya,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_MR3&transportType=transjakarta
+MR5,Stasiun MRT Blok A - Radio Dalam,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_MR5&transportType=transjakarta
+MR8,Stasiun MRT Blok A - Pangeran Antasari,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_MR8&transportType=transjakarta
+MR9,South Quarter - Stasiun MRT Fatmawati,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_MR9&transportType=transjakarta
+S11,Serpong - Jelambar,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_S11&transportType=transjakarta
+S21,Ciputat - Tosari,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_S21&transportType=transjakarta
+S22,Ciputat - Kampung Rambutan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_S22&transportType=transjakarta
+S23,Rempoa - Blok M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_S23&transportType=transjakarta
+S41,Pondok Cabe - Tanah Abang,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_S41&transportType=transjakarta
+T11,Poris Plawad - Bundaran Senayan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_T11&transportType=transjakarta
+T12,Poris Plawad - Pasar Baru,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_T12&transportType=transjakarta
+1K,Cibubur - Blok M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1K&transportType=transjakarta
+1T,Cibubur - Kota,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1T&transportType=transjakarta
+1U,TMII - Balai Kota,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_1U&transportType=transjakarta
+6P,Cibubur - Kuningan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_6P_royaltrans&transportType=transjakarta
+B13,Summarecon Bekasi - Blok M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B13&transportType=transjakarta
+B14,Summarecon Bekasi - Kuningan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B14&transportType=transjakarta
+B15,Jatibening - Blok M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B15&transportType=transjakarta
+B16,Jatibening - Kuningan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B16_royaltrans&transportType=transjakarta
+B23,Bekasi Timur - Tebet,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B23&transportType=transjakarta
+B24,Bekasi Timur - Kalideres,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_B24&transportType=transjakarta
+S12,Serpong BSD - Stasiun MRT Fatmawati,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_S12_royaltrans&transportType=transjakarta
+S31,Bintaro - Stasiun MRT Fatmawati,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_S31&transportType=transjakarta
+BW1,Sejarah Jakarta,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_BW1&transportType=transjakarta
+BW2,Jakarta Baru,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_BW2&transportType=transjakarta
+BW3,Kesenian & Kuliner,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_BW3&transportType=transjakarta
+BW4,Pencakar Langit,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_BW4&transportType=transjakarta
+BW5,Ruang Terbuka,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_BW5&transportType=transjakarta
+BW6,Cagar Budaya Jakarta,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_BW6&transportType=transjakarta
+BW7,Belanja Jakarta,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_BW7&transportType=transjakarta
+GR1,Bundaran Senayan - Harmoni,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_GR1&transportType=transjakarta
+GR2,Tanah Abang Explorer,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_GR2&transportType=transjakarta
+GR3,Ragunan - Departemen Pertanian,NA
+JAK-1,Tanjung Priok - Plumpang,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-1&transportType=transjakarta
+JAK-2,Duren Sawit - Kampung Melayu,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-2&transportType=transjakarta
+JAK-3,Lebak Bulus - Pondok Labu,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-3&transportType=transjakarta
+JAK-4,Grogol - Jembatan 2,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-4&transportType=transjakarta
+JAK-5,Semper - Rorotan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-5&transportType=transjakarta
+JAK-6,Kampung Rambutan - Pondok Gede,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-6&transportType=transjakarta
+JAK-7,Tanah Abang - Tawakal,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-7&transportType=transjakarta
+JAK-8,Roxy - Benhil via Tanah Abang,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-8&transportType=transjakarta
+JAK-9,Roxy Mas - Karet,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.09&transportType=transjakarta
+JAK-10,Tanah Abang - Kota,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-10&transportType=transjakarta
+JAK-11,Tanah Abang - Kebayoran Lama,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-11&transportType=transjakarta
+JAK-12,Tanah Abang - Kebayoran Lama via Pos Pengumben,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-12&transportType=transjakarta
+JAK-13,Tanah Abang - Kota Intan via Jembatan Lima,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.13&transportType=transjakarta
+JAK-14,Tanah Abang - Meruya,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-14&transportType=transjakarta
+JAK-15,Tanjung Priok - Bulak Turi,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-15&transportType=transjakarta
+JAK-16,PGC - Condet,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-16&transportType=transjakarta
+JAK-17,Pulogadung - Senen,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-17&transportType=transjakarta
+JAK-18,Stasiun Kalibata - Kuningan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-18&transportType=transjakarta
+JAK-19,Pinang Ranti - Setu,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-19&transportType=transjakarta
+JAK-20,Lubang Buaya - Cawang UKI,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-20&transportType=transjakarta
+JAK-21,PGC - Dwikora,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-21&transportType=transjakarta
+JAK-22,Penas Kalimalang - Dwikora,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-22&transportType=transjakarta
+JAK-24,Senen - Pulogadung via Kelapa Gading,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-24&transportType=transjakarta
+JAK-25,Kalisari - Pasar Rebo,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-25&transportType=transjakarta
+JAK-26,Rawamangun - Duren Sawit,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-26&transportType=transjakarta
+JAK-27,Pulogebang - Rorotan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-27&transportType=transjakarta
+JAK-28,Taman Wiladatika - Pasar Rebo,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-28&transportType=transjakarta
+JAK-29,Tanjung Priok - Semper,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-29&transportType=transjakarta
+JAK-30,Citraland - Meruya,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-30&transportType=transjakarta
+JAK-31,Pondok Labu - Blok M,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-31&transportType=transjakarta
+JAK-32,Petukangan - Lebak Bulus,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-32&transportType=transjakarta
+JAK-33,Pulogadung - Kota,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_OK-33&transportType=transjakarta
+JAK-34,Rawamangun - Klender,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-34&transportType=transjakarta
+JAK-35,Rawamangun - Pangkalan Jati,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.35&transportType=transjakarta
+JAK-36,Cilangkap - Cililitan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-36&transportType=transjakarta
+JAK-37,Cililitan - Condet via Kayu Manis,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-37&transportType=transjakarta
+JAK-38,Bulak Ringin - Kampung Rambutan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-38&transportType=transjakarta
+JAK-39,Duren Sawit - Kalimalang,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-39&transportType=transjakarta
+JAK-40,Pulogebang - Taman Harapan Baru,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-40&transportType=transjakarta
+JAK-41,Kampung Melayu - Pulogadung,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.41&transportType=transjakarta
+JAK-42,Kampung Melayu - Pondok Kelapa,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.42&transportType=transjakarta
+JAK-43,Tongtek - Cililitan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.43&transportType=transjakarta
+JAK-44,Andara - Lenteng Agung,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-44&transportType=transjakarta
+JAK-45,Lebak Bulus - Ragunan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-45&transportType=transjakarta
+JAK-47,Ciganjur - Terminal Pasar Minggu,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-47&transportType=transjakarta
+JAK-49,Lebak Bulus - Cipulir,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.49&transportType=transjakarta
+JAK-50,Kalideres - Puri Kembangan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-50&transportType=transjakarta
+JAK-51,Taman Kota - Budi Luhur,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-51&transportType=transjakarta
+JAK-52,Kalideres - Muara Angke,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.52&transportType=transjakarta
+JAK-54,Grogol - Benhil,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.54&transportType=transjakarta
+JAK-56,Grogol - Srengseng,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-56&transportType=transjakarta
+JAK-58,Cilincing - Rorotan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-58&transportType=transjakarta
+JAK-59,Rawamangun - Rawa Sengon,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-59&transportType=transjakarta
+JAK-60,Kelapa Gading - Rusun Kemayoran,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-60&transportType=transjakarta
+JAK-61,Pulogadung - Cempaka Putih,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-61&transportType=transjakarta
+JAK-64,Lenteng Agung - Aseli,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-64&transportType=transjakarta
+JAK-71,Kampung Rambutan - Pinang Ranti,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.71&transportType=transjakarta
+JAK-72,Kampung Rambutan - Pasar Rebo,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-72&transportType=transjakarta
+JAK-73,Jambore Cibubur - Pasar Rebo,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.73&transportType=transjakarta
+JAK-74,Rawamangun - Cipinang Muara,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.74&transportType=transjakarta
+JAK-75,Kampung Pulo - Halim via Cililitan,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-75&transportType=transjakarta
+JAK-77,Tanjung Priok - Jembatan Hitam,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK-77&transportType=transjakarta
+JAK-80,Rawa Buaya - Rawa Kompeni,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.80&transportType=transjakarta
+JAK-84,Kampung Melayu - Kapin Raya,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.84&transportType=transjakarta
+JAK-85,Bintara - Cipinang Indah,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.85&transportType=transjakarta
+JAK-112,Pulogadung - Tanah Merah,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.112&transportType=transjakarta
+JAK-117,Tanjung Priok - Tanah Merdeka,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_JAK.117&transportType=transjakarta
+10E,Pulogebang - Tanjung Priok,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_10E&transportType=transjakarta
+11E,Pulogebang - Lebak Bulus,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11E&transportType=transjakarta
+11F,Pulogebang - Pasar Minggu,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11F&transportType=transjakarta
+11H,Pulogebang - Pinang Ranti,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_11H&transportType=transjakarta
+2C,Monas - JIEXPO Kemayoran,https://www.trafi.com/api/schedules/jakarta/schedule?scheduleId=idjkb_2C&transportType=transjakarta
